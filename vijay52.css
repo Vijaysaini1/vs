@@ -1,0 +1,66 @@
+.body{
+    background: rgb(20, 173, 115);
+}
+.v{
+    text-align: center;
+    font-size: 45px;
+    color: red;
+    lighting-color: aqua;
+    text-decoration:rgb(22, 165, 29);
+    
+}
+.i{
+    text-align: left;
+    color: blue;
+    font-size: 30pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.j{
+    color: wheat;
+    font-size: 25pt;
+    line-height: 30pt;
+    text-align: justify;
+}
+.a{
+    text-align: center;
+    color:brown;
+    font-size: 30pt;
+}
+.s{
+    font-size: 25pt;
+    color: bisque;
+    padding-left: 478pt;
+    line-height: 40pt;
+}
+.vc{
+    text-align: center;
+    font-size: 45px;
+    border: 5%;
+    height: 53%;
+    width: 54%;
+    text-align: left;
+    background-color: aqua;
+    
+}
+.saini{
+    color: blue;
+    text-align: center;
+    font-size: 56px;
+    background-color: aqua;
+}
+.rahul{
+    font-size: 56px;
+}
+.ins{
+    text-align: left;
+    color: rgb(8, 207, 25);
+}
+.you{
+    text-align: center;
+    color: lightsalmon;
+}
+.fac{
+    text-align: right;
+    color: blue;
+}
